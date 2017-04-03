@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sunshine!
 
 This is the repository for the weather app that students build during the [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851) course at Udacity.
@@ -9,3 +10,7 @@ When you're done, or if you run into any problems, you can open up the solution 
 # Contributing
 
 Because of the way this repository is constructed, pull requests don't really work. Issues, however, are gratefully accepted!
+=======
+# LearningAndroid
+Projects on path of learning android
+>>>>>>> 66c0636414f57fa6d1e8f4716af457b8e647d0e8
